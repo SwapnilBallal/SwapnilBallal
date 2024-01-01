@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frontend project**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack Development.**
 
 - 📫 How to reach me **swapnilballal16@gmail.com**
 
